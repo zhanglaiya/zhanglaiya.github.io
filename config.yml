@@ -1,8 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://zgsla.github.io"
-title: zgsla
-copyright: "© [zgsla](https://github.com/zgsla)"
+baseURL: "https://zhanglaiya.github.io"
+title: zhanglaiya
+copyright: "© [zhanglaiya](https://github.com/zhanglaiya)"
 paginate: 5
 theme: PaperMod
 
@@ -40,7 +40,7 @@ languages:
           url: tags/
           weight: 10
         - name: 源码
-          url: https://github.com/zgsla/zgsla.github.io
+          url: https://github.com/zhanglaiya/zhanglaiya.github.io
 
 outputs:
   home:
@@ -50,8 +50,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "zgsla's blog - https://github.com/zgsla/zgsla.github.io"
-  author: zgsla
+  description: "zhanglaiya's blog - https://github.com/zhanglaiya/zhanglaiya.github.io"
+  author: zhanglaiya
   # author: ["Me", "You"] # multiple authors
   # math: true
   defaultTheme: auto
@@ -84,9 +84,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "zgsla's Blog"
+    Title: "zhanglaiya's Blog"
     Content: >
-      👋 Hi, Welcome to zgsla's blog!
+      👋 Hi, Welcome to zhanglaiya's blog!
 
       - 本人2017毕业, 目前在深圳从事爬虫开发。
 
@@ -97,7 +97,7 @@ params:
   socialIcons:
     - name: github
       title: Github源码
-      url: "https://github.com/zgsla/zgsla.github.io"
+      url: "https://github.com/zhanglaiya/zhanglaiya.github.io"
     - name: qq
       title: QQ
     - name: wechat

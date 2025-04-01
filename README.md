@@ -1,3 +1,3 @@
 ## 个人博客仓库
 
-power by [hugo](https://github.com/gohugoio/hugo) & [papermod](https://github.com/adityatelange/hugo-PaperMod)
+[hugo](https://github.com/gohugoio/hugo)引擎开发，主题使用[papermod](https://github.com/adityatelange/hugo-PaperMod)
