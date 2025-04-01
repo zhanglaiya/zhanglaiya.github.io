@@ -86,13 +86,19 @@ params:
   homeInfoParams:
     Title: "zhanglaiya's Blog"
     Content: >
-      👋 Hi, Welcome to zhanglaiya's blog!
+      👋 Hi, 我是zhanglaiya, 一个爱好JavaScript, Python的爬虫开发。
 
-      - 本人2017毕业, 目前在深圳从事爬虫开发。
+      - 下面是我做的一些开源项目
+      
+      - [Pyttyd](https://github.com/zhanglaiya/pyttyd) python开发的终端分享工具
+      
+      - [deconfuse](https://deconfuse.pages.dev/) js解混淆工具
 
-      - 如果对我的博客感兴趣请在GitHub给我个🌟 也可以把它分享给你的朋友们.
+      - 如果对我的项目感兴趣, 麻烦在GitHub点个🌟, 非常感谢！
 
-      - 现在在学前端 [React](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+      - 现在在学前端 [React](https://zh-hans.react.dev/learn) & [Nextjs](https://nextjs.org/docs).
+
+      - 博客用于分享学习技术和记录个人生活, 不作任何商业用途, 如有侵权请联系我 315396460@qq.com
 
   socialIcons:
     - name: github
